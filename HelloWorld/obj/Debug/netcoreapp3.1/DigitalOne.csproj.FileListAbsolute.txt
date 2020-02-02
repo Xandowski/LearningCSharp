@@ -1,0 +1,11 @@
+C:\Users\xandy\Documents\Programming\javaScript\DigitalOne\getting-start-with-dotnet\DigitalOne\bin\Debug\netcoreapp3.1\DigitalOne.exe
+C:\Users\xandy\Documents\Programming\javaScript\DigitalOne\getting-start-with-dotnet\DigitalOne\bin\Debug\netcoreapp3.1\DigitalOne.deps.json
+C:\Users\xandy\Documents\Programming\javaScript\DigitalOne\getting-start-with-dotnet\DigitalOne\bin\Debug\netcoreapp3.1\DigitalOne.runtimeconfig.json
+C:\Users\xandy\Documents\Programming\javaScript\DigitalOne\getting-start-with-dotnet\DigitalOne\bin\Debug\netcoreapp3.1\DigitalOne.runtimeconfig.dev.json
+C:\Users\xandy\Documents\Programming\javaScript\DigitalOne\getting-start-with-dotnet\DigitalOne\bin\Debug\netcoreapp3.1\DigitalOne.dll
+C:\Users\xandy\Documents\Programming\javaScript\DigitalOne\getting-start-with-dotnet\DigitalOne\bin\Debug\netcoreapp3.1\DigitalOne.pdb
+C:\Users\xandy\Documents\Programming\javaScript\DigitalOne\getting-start-with-dotnet\DigitalOne\obj\Debug\netcoreapp3.1\DigitalOne.csprojAssemblyReference.cache
+C:\Users\xandy\Documents\Programming\javaScript\DigitalOne\getting-start-with-dotnet\DigitalOne\obj\Debug\netcoreapp3.1\DigitalOne.AssemblyInfoInputs.cache
+C:\Users\xandy\Documents\Programming\javaScript\DigitalOne\getting-start-with-dotnet\DigitalOne\obj\Debug\netcoreapp3.1\DigitalOne.AssemblyInfo.cs
+C:\Users\xandy\Documents\Programming\javaScript\DigitalOne\getting-start-with-dotnet\DigitalOne\obj\Debug\netcoreapp3.1\DigitalOne.dll
+C:\Users\xandy\Documents\Programming\javaScript\DigitalOne\getting-start-with-dotnet\DigitalOne\obj\Debug\netcoreapp3.1\DigitalOne.pdb
