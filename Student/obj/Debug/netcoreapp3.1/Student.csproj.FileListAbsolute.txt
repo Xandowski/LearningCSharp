@@ -1,0 +1,11 @@
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\Student\obj\Debug\netcoreapp3.1\Student.csprojAssemblyReference.cache
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\Student\obj\Debug\netcoreapp3.1\Student.AssemblyInfoInputs.cache
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\Student\obj\Debug\netcoreapp3.1\Student.AssemblyInfo.cs
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\Student\bin\Debug\netcoreapp3.1\Student.exe
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\Student\bin\Debug\netcoreapp3.1\Student.deps.json
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\Student\bin\Debug\netcoreapp3.1\Student.runtimeconfig.json
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\Student\bin\Debug\netcoreapp3.1\Student.runtimeconfig.dev.json
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\Student\bin\Debug\netcoreapp3.1\Student.dll
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\Student\bin\Debug\netcoreapp3.1\Student.pdb
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\Student\obj\Debug\netcoreapp3.1\Student.dll
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\Student\obj\Debug\netcoreapp3.1\Student.pdb
