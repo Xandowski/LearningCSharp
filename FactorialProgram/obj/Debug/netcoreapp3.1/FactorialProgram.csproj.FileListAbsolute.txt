@@ -1,0 +1,11 @@
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\FactorialProgram\bin\Debug\netcoreapp3.1\FactorialProgram.exe
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\FactorialProgram\bin\Debug\netcoreapp3.1\FactorialProgram.deps.json
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\FactorialProgram\bin\Debug\netcoreapp3.1\FactorialProgram.runtimeconfig.json
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\FactorialProgram\bin\Debug\netcoreapp3.1\FactorialProgram.runtimeconfig.dev.json
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\FactorialProgram\bin\Debug\netcoreapp3.1\FactorialProgram.dll
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\FactorialProgram\bin\Debug\netcoreapp3.1\FactorialProgram.pdb
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\FactorialProgram\obj\Debug\netcoreapp3.1\FactorialProgram.csprojAssemblyReference.cache
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\FactorialProgram\obj\Debug\netcoreapp3.1\FactorialProgram.AssemblyInfoInputs.cache
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\FactorialProgram\obj\Debug\netcoreapp3.1\FactorialProgram.AssemblyInfo.cs
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\FactorialProgram\obj\Debug\netcoreapp3.1\FactorialProgram.dll
+C:\Users\xandy\Documents\Programming\Repositorios\LearningCSharp\FactorialProgram\obj\Debug\netcoreapp3.1\FactorialProgram.pdb
